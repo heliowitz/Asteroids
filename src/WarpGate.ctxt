@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ WarpGate\ rotates\ -1\ degrees\n\ WarpGate\ checked\ to\ see\ if\ it\ should\ still\ remain\ on\ the\ screen\n\ \n\ Examines\ all\ other\ WarpGates\ on\ the\ screen,\ and\ determines\ which\ one\ is\ closes\ \n
+comment2.params=a\ b
+comment2.target=double\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+comment2.text=\n\ Returns\ a\ double\ that\ is\ the\ distance\ between\ 2\ different\ actors\n\ Uses\ the\ pythagorean\ theorum\ \n\ \n\ @return\ double\ the\ distance\ between\ actor\ a\ and\ actor\ b\n
+comment3.params=
+comment3.target=int\ getTransportX()
+comment3.text=\n\ Returns\ the\ variable\ transportX\n\ \n\ @return\ int\ transportX\n
+comment4.params=
+comment4.target=int\ getTransportY()
+comment4.text=\n\ Returns\ the\ variable\ transportY\n\ \n\ @return\ int\ transportY\n
+comment5.params=
+comment5.target=boolean\ getPair()
+comment5.text=\n\ Returns\ the\ boolean\ pairExist\n\ \n\ @return\ boolean\ pairExist\n
+numComments=6

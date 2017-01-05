@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=moveToX\ moveToY
+comment0.target=Asteroid1(int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ every\ act,\ the\ asteroid\ moves\ to\ a\ randomly\ assigned\ location\ at\ the\ border\ of\ the\ screen\n\ the\ asteroid\ is\ checked\ to\ see\ if\ it\ has\ been\ destroyed\ by\ bubbleshields,\ or\ ship\ bullets\ \n\ the\ asteroid\ is\ checked\ to\ see\ if\ it\ has\ reached\ the\ edge\ of\ the\ world\ to\ be\ removed\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\n\ Returns\ whether\ or\ not\ an\ object\ is\ at\ the\ edge\ of\ the\ world\n\ \n\ @return\ boolean\ \ true\ if\ at\ the\ edge,\ false\ otherwise\n
+comment3.params=
+comment3.target=boolean\ checkHit()
+comment3.text=\n\ Returns\ whether\ or\ not\ the\ asteroid\ was\ hit\ by\ a\ ShipBullet\n\ \n\ @return\ boolean\ \ \ true\ if\ hit,\ false\ otherwise\n
+comment4.params=
+comment4.target=boolean\ checkBShieldCollision()
+comment4.text=\n\ Returns\ whether\ or\ not\ the\ asteroid\ was\ vaporized\ by\ a\ Bubble\ Shield\n\ \n\ @return\ boolean\ true\ if\ vaporized,\ false\ otherwise\n
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ every\ act,\ the\ shieldCounterTimer\ is\ decreased\ by\ 1\n\ calls\ the\ checkCollected\ method\ to\ see\ if\ the\ ship\ has\ touched\ the\ bubble\ shield\n\ \n\ checks\ to\ see\ when\ the\ Bubble\ Shield\ runs\ out\n
+comment1.params=
+comment1.target=void\ checkCollected()
+comment1.text=\n\ checks\ to\ see\ if\ the\ BubbleShield\ has\ been\ collected\ by\ the\ ship\n\ If\ so,\ it\ sets\ the\ used\ boolean\ to\ true\n
+numComments=2

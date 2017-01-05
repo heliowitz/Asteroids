@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=turn
+comment0.target=Mineral(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ every\ act,\ it\ turns\n\ checks\ to\ see\ if\ it\ has\ been\ collected\ by\ a\ ship\n
+comment2.params=
+comment2.target=boolean\ checkShipCollection()
+comment2.text=\n\ checks\ to\ see\ if\ the\ mineral\ has\ been\ collected\ by\ the\ ship\ or\ not\n\ \n\ @return\ boolean\ true\ if\ collided\ with\ ship,\ false\ otherwise\n
+comment3.params=
+comment3.target=void\ removeMe()
+comment3.text=\n\ Removes\ mineral\n
+numComments=4

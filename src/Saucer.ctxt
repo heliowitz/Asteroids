@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Gets\ the\ current\ location\ of\ the\ ship,\ and\ moves\ towards\ it\n\ \n\ checks\ to\ see\ if\ the\ saucer\ has\ collided\ with\ a\ shield,\ a\ bubble\ shield\n
+comment1.params=
+comment1.target=boolean\ checkShieldCollision()
+comment1.text=\n\ Returns\ a\ boolean\ to\ check\ to\ see\ if\ a\ \ Saucer\ has\ collided\ with\ a\ shield\ or\ not\n\ \n\ @return\ boolean\ true\ if\ collision\ happened\ false\ otherwise\n
+comment2.params=
+comment2.target=boolean\ checkBShieldCollision()
+comment2.text=\n\ Returns\ a\ boolean\ to\ check\ to\ see\ if\ a\ Saucer\ has\ collided\ with\ a\ bubble\ shield\ or\ not\n\ \n\ @return\ boolean\ true\ if\ collision\ happened\ false\ otherwise\n
+comment3.params=
+comment3.target=void\ removeMe()
+comment3.text=\n\ Removes\ the\ \ Saucer\n
+numComments=4

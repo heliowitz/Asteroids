@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ turns\ -1\ degrees\n\ \n\ calls\ the\ checkInsturctions\ method,\ to\ see\ if\ the\ world\ should\ be\ set\ to\ the\ instructions\ world\n
+comment1.params=
+comment1.target=boolean\ checkInstructions()
+comment1.text=\n\ Returns\ a\ boolean\ to\ see\ if\ a\ ship\ has\ collided\ with\ the\ InstructionGate\n\ \n\ @return\ boolean\ true\ if\ collision\ happened,\ false\ otherwise\n
+numComments=2

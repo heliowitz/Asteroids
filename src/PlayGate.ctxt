@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ The\ PlayGate\ turns\ 1\ degree\n\ \n\ calls\ the\ checkPlay\ method\ to\ see\ if\ the\ world\ should\ be\ set\ to\ the\ space\ world\n
+comment1.params=
+comment1.target=boolean\ checkPlay()
+comment1.text=\n\ Checks\ to\ see\ if\ a\ ship\ has\ collided\ with\ the\ PlayGate,\ indicating\ that\ the\ user\ wants\ to\ play\ the\ game\ directly\n\ \n\ @return\ boolean\ true\ if\ collision\ exists,\ false\ otherwise\n
+numComments=2

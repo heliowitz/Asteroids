@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ turn\ -1\ degree\ \n
+comment1.params=
+comment1.target=void\ removeMe()
+comment1.text=\n\ removes\ the\ object\n
+numComments=2

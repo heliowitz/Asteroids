@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChoiceScreen()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ every\ act,\ the\ checkShipKeys\ method\ is\ called\ to\ see\ if\ the\ user\ wishes\ to\ move\ the\ ship\n
+comment2.params=
+comment2.target=void\ checkShipKeys()
+comment2.text=\n\ checks\ if\ the\ user\ wants\ to\ move\ the\ ship\n
+numComments=3

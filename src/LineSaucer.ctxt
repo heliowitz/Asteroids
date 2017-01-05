@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=LineSaucer(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ the\ Lines\ Saucer\ moves\ in\ the\ direction\ of\ its\ given\ rotation\n\ \n\ LineSaucer\ is\ checked\ to\ see\ if\ it\ is\ at\ the\ world's\ edge,\ has\ been\ hit\ by\ a\ Shield\ or\ a\ BubbleShield\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\n\ Returns\ whether\ or\ not\ an\ object\ is\ at\ the\ edge\ of\ the\ world\n\ \n\ @return\ boolean\ \ true\ if\ at\ the\ edge,\ false\ otherwise\n
+comment3.params=
+comment3.target=boolean\ checkShieldCollision()
+comment3.text=\n\ Returns\ a\ boolean\ to\ check\ to\ see\ if\ a\ LineSaucer\ has\ collided\ with\ a\ shield\ or\ not\n\ \n\ @return\ boolean\ true\ if\ collision\ happened\ false\ otherwise\n
+comment4.params=
+comment4.target=boolean\ checkBShieldCollision()
+comment4.text=\n\ Returns\ a\ boolean\ to\ check\ to\ see\ if\ a\ LineSaucer\ has\ collided\ with\ a\ bubble\ shield\ or\ not\n\ \n\ @return\ boolean\ true\ if\ collision\ happened\ false\ otherwise\n
+comment5.params=
+comment5.target=void\ removeMe()
+comment5.text=\n\ Removes\ the\ LineSaucer\n
+numComments=6

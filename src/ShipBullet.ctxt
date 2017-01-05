@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=ShipBullet(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Every\ act,\ the\ Ship\ Bullet\ moves\ in\ the\ direction\ of\ the\ set\ angle\n\ \n\ ShipBullet\ is\ also\ checked\ to\ see\ if\ it\ has\ hit\ saucers,\ line\ saucers,\ or\ has\ reached\ the\ edge\ of\ the\ world\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\n\ Checks\ if\ this\ Actor\ is\ at\ the\ edge\ of\ the\ World\n\ \n\ @return\ boolean\ \ true\ if\ at\ edge\ of\ the\ World,\ otherwise\ false\n
+comment3.params=
+comment3.target=boolean\ checkHit()
+comment3.text=\n\ Checks\ to\ see\ if\ the\ ShipBullet\ has\ hit\ a\ saucer\n\ \n\ @return\ boolean\ true\ if\ hit\ saucer,\ false\ otherwise\n
+comment4.params=
+comment4.target=boolean\ checkLineHit()
+comment4.text=\n\ Checks\ to\ see\ if\ the\ ShipBullet\ has\ hit\ a\ LineSaucer\n\ \n\ @return\ booelan\ true\ if\ hit\ LineSaucer,\ false\ otherwise\n
+comment5.params=
+comment5.target=void\ removeMe()
+comment5.text=\n\ Removes\ the\ ShipBullet\n
+numComments=6

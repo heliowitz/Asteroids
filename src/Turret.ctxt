@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ For\ each\ act,\ obtains\ all\ saucers\ on\ the\ screen,\ and\ determines\ which\ one\ is\ the\ closest,\ and\ then\ shoots\ at\ it\n
+comment2.params=a\ b
+comment2.target=double\ getDistance(greenfoot.Actor,\ greenfoot.Actor)
+comment2.text=\nCalcuates\ distance\ between\ actor\ a\ and\ actor\ b\nuses\ pythagorean\ theorum\n\n@return\ double\ the\ distance\ between\ the\ actors\n
+comment3.params=rotation
+comment3.target=void\ shoot(int)
+comment3.text=\n\ Shoots\ turret\ bullets\ by\ spawning\ them\ at\ the\ location\ of\ the\ turret\n\ \n
+numComments=4

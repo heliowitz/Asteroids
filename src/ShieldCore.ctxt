@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ every\ act,\ the\ shield\ core\ turns\ 1\ degree\n\ its\ timer\ integer\ decreases\ by\ 1\n\ \n\ If\ the\ timer\ reaches\ 0,\ the\ shield\ core\ is\ removed\n
+numComments=1
